@@ -4,6 +4,6 @@ Tree data structure supporting functional manipulation.  Works closely with FSet
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/GrammaTech/functional-trees.git |
-| commit  | 257a58a                                                |
+| commit  | 9086ebb                                                |
 | systems | functional-trees                                       |
 |---------+--------------------------------------------------------|
